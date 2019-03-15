@@ -12,6 +12,9 @@ namespace ConnAppGit
         {
             Console.WriteLine("Hi");
             int i = 0;
+            Console.WriteLine(i);
+
+            Console.WriteLine("Yes");
             Console.ReadLine();
         }
     }
