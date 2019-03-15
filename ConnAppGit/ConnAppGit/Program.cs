@@ -11,6 +11,10 @@ namespace ConnAppGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
+            int i = 0;
+            Console.WriteLine(i);
+
+            Console.WriteLine("Ukraine");
             int i = 1;
             Console.ReadLine();
         }
