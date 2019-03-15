@@ -15,7 +15,7 @@ namespace ConnAppGit
             Console.WriteLine(i);
 
             Console.WriteLine("Ukraine");
-            int i = 1;
+
             Console.ReadLine();
         }
     }
