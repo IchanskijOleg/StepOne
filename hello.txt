@@ -1,5 +1,5 @@
-print one
-print two
+print one:
+print two:
 print three
 print HELLO
 print HI
